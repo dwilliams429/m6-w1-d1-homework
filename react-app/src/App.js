@@ -11,7 +11,7 @@ import {
 } from 'react-router-dom';
 import './App.css';
 
-// Small wrapper so InventoryEdit (class) can use navigate + params with React Router v6
+// Small wrapper so InventoryEdit (class) can use navigate + params with React Router 
 function InventoryEditWrapper() {
   const navigate = useNavigate();
   const params = useParams();
