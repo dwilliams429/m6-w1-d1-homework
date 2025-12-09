@@ -1,2 +1,5 @@
 node_modules/
+react-app/
+src/
+.env
 .DS_Store
